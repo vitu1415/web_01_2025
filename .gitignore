@@ -1,0 +1,19 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos compilados do TypeScript
+dist/
+build/
+
+# Ignorar arquivos de configuração e cache do TypeScript
+*.tsbuildinfo
+
+# Ignorar logs e arquivos do sistema
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+.DS_Store
+
+# Ignorar arquivos do editor
+.vscode/
+.idea/
