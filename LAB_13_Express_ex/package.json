@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node dist/app.js",
     "build": "npx tsc",
-    "dev": "ts - node src/app.ts"
+    "dev": "ts-node src/app.ts"
   },
   "keywords": [],
   "author": "",
